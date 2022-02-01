@@ -1,2 +1,3 @@
 # artifacts
-Holder for my favorite archive files
+
+All assets used here are in the public domain.
